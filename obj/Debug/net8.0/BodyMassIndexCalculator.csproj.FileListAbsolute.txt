@@ -1,0 +1,14 @@
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\bin\Debug\net8.0\BodyMassIndexCalculator.exe
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\bin\Debug\net8.0\BodyMassIndexCalculator.deps.json
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\bin\Debug\net8.0\BodyMassIndexCalculator.runtimeconfig.json
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\bin\Debug\net8.0\BodyMassIndexCalculator.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\bin\Debug\net8.0\BodyMassIndexCalculator.pdb
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\BodyMassIndexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\BodyMassIndexCalculator.AssemblyInfoInputs.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\BodyMassIndexCalculator.AssemblyInfo.cs
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\BodyMassIndexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\BodyMassIndexCalculator.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\refint\BodyMassIndexCalculator.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\BodyMassIndexCalculator.pdb
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\BodyMassIndexCalculator.genruntimeconfig.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\BodyMassIndexCalculator\obj\Debug\net8.0\ref\BodyMassIndexCalculator.dll
